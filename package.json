@@ -8,22 +8,22 @@
   },
   "private": true,
   "devDependencies": {
-    "babelify": "^6.1.2",
-    "browser-sync": "^1.8.1",
-    "browserify": "^7.0.3",
-    "gulp": "^3.8.10",
-    "gulp-notify": "^2.1.0",
-    "gulp-util": "^3.0.1",
-    "pretty-hrtime": "^0.2.2",
-    "require-dir": "^0.1.0",
-    "underscore": "^1.7.0",
-    "vinyl-source-stream": "^1.0.0",
-    "watchify": "^2.2.1"
+    "babel-core": "6.26.0",
+    "babelify": "8.0.0",
+    "browser-sync": "2.23.6",
+    "browserify": "16.1.1",
+    "gulp": "3.9.1",
+    "gulp-notify": "3.2.0",
+    "gulp-util": "3.0.8",
+    "pretty-hrtime": "1.0.3",
+    "require-dir": "1.0.0",
+    "underscore": "1.8.3",
+    "vinyl-source-stream": "2.0.0",
+    "watchify": "3.11.0"
   },
   "dependencies": {
-    "material-ui": "^0.13.0",
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0",
-    "react-tap-event-plugin": "^0.2.1"
+    "material-ui": "0.20.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
   }
 }
